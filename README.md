@@ -21,7 +21,7 @@ This project, developed as part of our **Software Development 1** coursework, in
 - **csv** (for reading and processing the data)
 
 ## How to Run:
-1. Clone the repository: `git clone https://github.com/Sanila-577/traffic_analysis.git`
+1. Clone the repository: `git clone https://github.com/Sanila-577/traffic-pulze.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the program: `python traffic_analysis.py`
 4. Choose the CSV dataset file to analyze and view the results.
